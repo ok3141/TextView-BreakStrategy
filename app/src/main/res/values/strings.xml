@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextView breakStrategy</string>
+    <string name="long_text_0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry…</string>
+    <string name="long_text_1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry… 0</string>
+    <string name="long_text_2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry… 00</string>
+    <string name="long_text_3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry… 000</string>
+    <string name="long_text_4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry… 0000</string>
+    <string name="long_text_5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry… 00000</string>
+</resources>
